@@ -229,6 +229,8 @@ body {
   font-size: 20px;
   line-height: 100%;
   color: inherit;
+  width: 100%;
+  text-align: center;
 }
 
 .nxt-button h6 span {
